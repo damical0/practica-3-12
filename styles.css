@@ -1,0 +1,17 @@
+table{
+    border: red 1px solid;
+}
+td.sin{
+    border: 0px solid;
+}
+td.a{
+    border: blue 2px solid;
+}
+td{
+    border: green 1px solid;
+}
+table.tres{
+    border: green 1px solid;
+    width: 500px;
+    text-align: center;
+}
